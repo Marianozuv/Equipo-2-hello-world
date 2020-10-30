@@ -1,5 +1,5 @@
-# Equipo-2-Lavanderia
-Lavanderia Sistemas Web
+# Equipo-2
+
 
 
 Readme ya editado en la nueva branch
